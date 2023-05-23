@@ -5,7 +5,7 @@ Cuman modal recode doang kok
 <p align="center">
 <img src="https://i.ibb.co/bvCb4Pr/Akame.jpg" alt="Akame" width="500"/>
 </p>
-<h1 align="center">Akame-MD</h1>
+<h1 align="center">Nurzy-BOT</h1>
 <p align="center">
   <a href="https://github.com/AdrianTzy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Akame+BOT+Multi+Device;Base+ori+by+DikaArdnt;Recode+By+AdrianTzy;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
